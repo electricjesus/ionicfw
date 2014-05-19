@@ -1,0 +1,11 @@
+{
+	"name": "ionicfw",
+	"description": "Ionic Framework the Meteor SCSS way.",
+	"homepage": "https://github.com/electricjesus/meteor-ionicfw",
+	"author": "Seth Malaki <seth.malaki@gmail.com>",
+	"version": "0.0.7",
+	"git": "https://github.com/electricjesus/meteor-ionic",
+	"packages": {
+		"scss": "0.8.7"
+	}
+}
